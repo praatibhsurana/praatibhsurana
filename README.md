@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey there! I'm Praatibh 👋
+
+- 🔭 I’m currently working on projects in Natural Language Processing and Medical Healthcare AI 
+- 🌱 I’m currently learning Computer Vision and it's applications
+- 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @PraatibhS
+- 🤔 I’m looking for help with handwriting recognition and other computer vision tasks
+- 😄 Pronouns : He/Him
+- ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow 😄
+
 
 <!--
 **praatibhsurana/praatibhsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
