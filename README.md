@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Reinforcement Learning
 - 🤔 I’m looking for help with handwriting recognition and RL
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @PraatibhS
-- ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow 😄
+- ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow! Click here :  https://linktr.ee/justbaatein 😄
 - 😄 Pronouns : He/Him
 
 <!--
