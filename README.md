@@ -1,10 +1,11 @@
 ## Hey there! I'm Praatibh 👋
 
-- 🔭 I’m currently working on projects in Natural Language Processing and Medical Healthcare AI 
-- 🌱 I’m currently learning Reinforcement Learning
+- 🔭 I’m currently working on projects in Natural Language Processing and Computer Vision in Medical Healthcare AI 
+- 🌱 I’m currently learning Reinforcement Learning and Transformers
 - 🤔 I’m looking for help with handwriting recognition and RL
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @PraatibhS
 - ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow! Click here :  https://linktr.ee/justbaatein 😄
+- I also write articles on ML and DL at https://praatibhsurana.medium.com/ 
 - 😄 Pronouns : He/Him
 
 <!--
