@@ -1,8 +1,8 @@
 ## Hey there! I'm Praatibh 👋
 
-- 🔭 I’m currently working on projects in Natural Language Processing and Computer Vision in Medical Healthcare AI 
+- 🔭 I’m currently working on projects in Natural Language Processing 
 - 🌱 I’m currently learning Reinforcement Learning and Transformers
-- 🤔 I’m looking for help with handwriting recognition and RL
+- 🤔 I’m looking for help with RL and Explainable AI
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @PraatibhS
 - ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow! Click here :  https://linktr.ee/justbaatein 😄
 - I also write articles on ML, DL and MLOps at https://praatibhsurana.medium.com/ 
