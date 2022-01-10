@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects in Natural Language Processing and Medical Image Processing
 - 🌱 I’m currently learning Multilabel Image Classification 
 - 🤔 I’m looking for help with Reinforcement Learning and Explainable AI
-- 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @PraatibhS
+- 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @pratIsACat
 - ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow! Click here :  https://linktr.ee/justbaatein 😄
 - I also write articles on ML, DL, MLOps and the Crypto space at https://praatibhsurana.medium.com/ 
 - 😄 Pronouns : He/Him
