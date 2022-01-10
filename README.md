@@ -1,6 +1,6 @@
 ## Hey there! I'm Praatibh 👋
 
-- 🔭 I’m currently working on projects in Natural Language Processing and Medical Image Processing
+- 🔭 I’m currently working on projects in Natural Language Processing 
 - 🌱 I’m currently learning Multilabel Image Classification 
 - 🤔 I’m looking for help with Reinforcement Learning and Explainable AI
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @pratIsACat
