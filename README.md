@@ -1,8 +1,8 @@
 ## Hey there! I'm Praatibh 👋
 
 - 🔭 I’m currently working on projects in Natural Language Processing 
-- 🌱 I’m currently learning Multilabel Image Classification 
-- 🤔 I’m looking for help with Reinforcement Learning and Explainable AI
+- 🌱 I’m currently learning stuff about Web3 
+- 🤔 I’m looking for help with Research in Web3 & Social tokenomics 
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @pratIsACat
 - ⚡ Fun fact : I own a podcast called "Just Baatein". You've made it this far, might as well check my podcast out and perhaps give me a follow! Click here :  https://linktr.ee/justbaatein 😄
 - I also write articles on ML, DL, MLOps and the Crypto space at https://praatibhsurana.medium.com/ 
