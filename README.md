@@ -1,7 +1,7 @@
 ## Hey there! I'm Praatibh 👋
 
-- 🔭 I’m currently working on projects pertaining to price discovery and auction mechanisms.
-- 🌱 I’m currently learning about Decentralized Finance and Real World Assets. 
+- 🔭 I’m currently working on projects pertaining to price discovery and auction mechanisms
+- 🌱 I’m currently learning about Decentralized Finance and Real World Assets
 - 🤔 I’m looking for help with Research in Web3 & Social tokenomics 
 - 📫 How to reach me : Mail me at praatibhsurana@gmail.com or tweet me @pratDoesTech
 - ⚡ Fun fact : I own a youtube channel called "Cricket By JB". You've made it this far, might as well check my channel out and perhaps give me a follow! Click here :  https://www.youtube.com/@cricketbyjustbaatein 😄
